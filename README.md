@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to my profile!
 <p align="center">
   <a href="https://discord.com/users/887969392321789953" target"blank_"><img src="https://img.shields.io/badge/My Discord%20Profile%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
-  <a href="https://github.com/zezextw" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://github.com/kavireal" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
 <br>
 </p>
 
